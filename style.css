@@ -1,0 +1,15 @@
+.body {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.corpo {
+    width: 60%;
+    text-align: center;
+    margin-left: 190px;
+    margin: 0 auto;
+}
+
+.qrcode {
+    size-adjust: 10px;
+}
